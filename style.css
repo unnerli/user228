@@ -1,0 +1,48 @@
+body {
+    font-family: sans-serif;
+}
+header{
+    border: solid 3px black;
+    background-color: blue;
+    border-radius: 10px;
+    color: white;
+}
+h1{
+    text-align: center;
+}
+header img{
+    border-radius: 10px;
+}
+nav a{
+    padding: 10px;
+    border-radius: 10px;
+    border: solid 2px wheat;
+    text-align: center;
+    background-color: wheat;
+    
+    
+    
+}
+nav{
+    text-align: center;
+    padding: 20px;}
+
+
+.as{
+    background-color: wheat ;
+    border-radius: 10px;
+    border: solid 2px wheat;
+    color: blue;
+}
+.qw{
+    border-radius: 10px;
+    border: solid 2px black;
+    color: white;
+    background-color: blue;
+
+}
+footer{
+    background-color: aquamarine;
+    border-radius: 10px;
+    border: solid 5px green;
+}
